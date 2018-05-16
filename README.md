@@ -1,7 +1,8 @@
-# codemix-vanilla-nodejs
-Template for project creation of NodeJS inside CodeMix
+# testPhantom
+Sample code to render server-side d3 svg and return using express
 
 ## Contents
 
-The template project is just an example Hello World that guide you through the use of nodejs with the Expressjs framework to build a very simple web application that display the Hello World!!! Greeting
-
+to run, 
+1. npm install
+2. node app.js
