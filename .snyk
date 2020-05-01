@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.14.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -9,3 +9,10 @@ patch:
   'npm:tough-cookie:20170905':
     - phantomjs > request > tough-cookie:
         patched: '2018-05-17T02:01:40.300Z'
+  SNYK-JS-LODASH-567746:
+    - jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2020-05-01T07:12:45.991Z'
+    - phantomjs > request > form-data > async > lodash:
+        patched: '2020-05-01T07:12:45.991Z'
+    - node-raphael > jsdom > request > form-data > async > lodash:
+        patched: '2020-05-01T07:12:45.991Z'
