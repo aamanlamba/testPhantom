@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "d3": "^5.4.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.19.2",
     "fs": "0.0.1-security",
     "jsdom": "^11.10.0",
     "node-phantom": "^0.2.5",
