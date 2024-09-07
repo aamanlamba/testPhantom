@@ -16,13 +16,13 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "fs": "0.0.1-security",
-    "jsdom": "^11.10.0",
+    "jsdom": "^16.6.0",
     "node-phantom": "^0.2.5",
     "node-raphael": "^0.2.0",
     "phantomjs": "^2.1.7",
     "raphael": "^2.2.7",
     "webpage": "^0.3.0",
-    "webserver": "^3.1.16",
+    "webserver": "^4.0.1",
     "snyk": "^1.80.1"
   },
   "devDependencies": {
